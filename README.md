@@ -1,2 +1,1 @@
-# E94116041_numerical_hw6
-E94116041_numerical_hw6 數值方法 作業6
+數值方法 作業6
